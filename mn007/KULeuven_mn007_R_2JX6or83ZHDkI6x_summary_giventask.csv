@@ -1,0 +1,4 @@
+"","participant","Query","NumTrials","accuracy","AccPass","SpecificityPass","AccCumul","SpecificityCumul","KnowerLevel"
+"1","KULeuven_mn007",1,1,1,1,1,1,1,"not_calculated"
+"2","KULeuven_mn007",2,1,1,1,1,1,1,"not_calculated"
+"3","KULeuven_mn007",4,1,0,0,1,0,1,"not_calculated"
