@@ -1,0 +1,73 @@
+"internal_id","qualtrics_site","qualtrics_participant","qualtrics_countryname","qualtrics_userlanguage","qualtrics_language","calc_numeracycomplete","calc_agegiven","calc_ageams","calc_agediff","calc_yeardiff","internal_needstobechecked","calc_agegroupgiven","calc_agegroupams","task_demographics","task_given","task_highestcount","file_ams","task_ams","task_vm","qualtrics_notes"
+"KULeuven_mn001","KULeuven","mn001","Belgium","NL","Nederlands",3,3.921,3.917,0.004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn002","KULeuven","mn002","Belgium","NL","Nederlands",3,3.715,3.667,0.048,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn003","KULeuven","mn003","Belgium","NL","Nederlands",2,3.863,3.833,0.0299999999999998,0,0,"agegroup2","agegroup2","1","0","1","1","32","0","in demographics form: question 'wie brengt gewoonlijk het meeste tijd door met het kind?' --> they indicated both parent 1 and parent 2"
+"KULeuven_mn004","KULeuven","mn004","Belgium","NL","Nederlands",3,3.586,3.583,0.00299999999999967,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn005","KULeuven","mn005","Belgium","NL","Nederlands",3,3.655,3.583,0.0719999999999996,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn006","KULeuven","mn006","Belgium","NL"," Nederlands",2,4.11,4.083,0.0270000000000001,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn007","KULeuven","mn007","Belgium","NL","Nederlands",2,3.485,3.417,0.0680000000000001,0,0,"agegroup1","agegroup1","1","0","1","1","48","1","demographics form: 'wie brengt gewoonlijk het meest tijd door met het kind?' --> indicated both ouder 1 and ouder 2"
+"KULeuven_mn008","KULeuven","mn008","Belgium","NL","Koreaans",3,4.208,4.167,0.0410000000000004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn009","KULeuven","mn009","Belgium","NL","Nederlands",3,4.266,4.25,0.016,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn010","KULeuven","mn010","Belgium","NL","Nederlands",2,3.668,3.667,0.00100000000000033,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn011","KULeuven","mn011","Belgium","NL","Nederlands",2,4.044,4,0.0439999999999996,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn012","KULeuven","mn012","Belgium","NL","Nederlands",3,4.299,4.25,0.0490000000000004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1","demographics: wie brengt gewoonlijk het meest tijd door met het kind --> indicated both parent 1 and 2"
+"KULeuven_mn013","KULeuven","mn013","Belgium","NL","Nederlands",3,3.616,3.583,0.0329999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn014","KULeuven","mn014","Belgium","NL","Nederlands",3,3.452,3.417,0.0350000000000001,0,0,"agegroup1","agegroup1","1","1","1","1","27",NA,"The child seemed very tired during the session. Therefore, the AMS task was finished early and the visual memory task was not started. "
+"KULeuven_mn015","KULeuven","mn015","Belgium","NL","Nederlands",3,3.699,3.667,0.032,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn016","KULeuven","mn016","Belgium","NL","Nederlands",3,4.614,4.583,0.0309999999999997,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn017","KULeuven","mn017","Belgium","NL","Nederlands/Grieks",2,3.868,3.833,0.0349999999999997,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn018","KULeuven","mn018","Belgium","NL","Nederlands",3,4.742,4.667,0.0750000000000002,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn019","KULeuven","mn019","Belgium","NL","Nederlands",3,5.082,5,0.0819999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn020","KULeuven","mn020","Belgium","NL","Nederlands",3,4.638,4.583,0.0549999999999997,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn021","KULeuven","mn021","Belgium","NL","Nederlands",2,4.967,4.917,0.0499999999999998,0,0,"agegroup2","agegroup2","1","1","0","1","48","1","child was very shy, did not really dare to speak, so no reaction in highest count task"
+"KULeuven_mn022","KULeuven","mn022","Belgium","NL","Nederlands",3,5.041,5,0.0410000000000004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn023","KULeuven","mn023","Belgium","NL","Frans",3,5.318,5.25,0.0679999999999996,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn024","KULeuven","mn024","Belgium","NL","Nederlands",3,4.616,4.583,0.0329999999999995,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn025","KULeuven","mn025","Belgium","NL","Nederlands",3,3.471,3.417,0.0540000000000003,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn026","KULeuven","mn026","Belgium","NL","Nederlands",3,4.482,4.417,0.0650000000000004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn027","KULeuven","mn027","Belgium","NL","Nederlands",3,4.975,4.917,0.0579999999999998,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn028","KULeuven","mn028","Belgium","NL","Nederlands",2,3.436,3.417,0.0190000000000001,0,0,"agegroup1","agegroup1","1","0","1","1","48","1",NA
+"KULeuven_mn029","KULeuven","mn029","Belgium","NL","Spaans",3,4.551,4.5,0.0510000000000002,0,0,"agegroup2","agegroup2","1","1","1","1","48","1","demographics form: 'wie brengt gewoonlijk het meest tijd door met het kind?' --> indicated both parents"
+"KULeuven_mn030","KULeuven","mn030","Belgium","NL","Frans",3,5.214,5.167,0.0470000000000006,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn031","KULeuven","mn031","Belgium","NL","Oekraiens",3,5.016,5,0.016,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn032","KULeuven","mn032","Belgium","NL","Nederlands",3,4.858,4.833,0.0249999999999995,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn033","KULeuven","mn033","Belgium","NL","Frans",3,4.904,4.833,0.0709999999999997,0,0,"agegroup2","agegroup2","1","1","1","1","48","1","demographics: 'wie brengt gewoonlijk het meest tijd door met het kind?' --> indicated both parents"
+"KULeuven_mn034","KULeuven","mn034","Belgium","NL","Nederlands",3,4.373,4.333,0.04,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn035","KULeuven","mn035","Belgium","NL","Malayalam",3,4.137,4.083,0.0539999999999994,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn036","KULeuven","mn036","Belgium","NL","Roemeens",3,4.416,4.333,0.0830000000000002,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn037","KULeuven","mn037","Belgium","NL","Spaans",3,5.244,5.167,0.077,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn038","KULeuven","mn038","Belgium","NL","Frans",3,4.803,4.75,0.0529999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn039","KULeuven","mn039","Belgium","NL","Frans",3,4.345,4.333,0.0119999999999996,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn040","KULeuven","mn040","Belgium","NL","Frans",3,4.718,4.667,0.0510000000000002,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn041","KULeuven","mn041","Belgium","NL","Nederlands",3,4.499,4.417,0.0819999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn042","KULeuven","mn042","Belgium","NL","Frans",2,3.734,3.667,0.0670000000000002,0,0,"agegroup2","agegroup2","1","0","1","1","48","1","demographic form: wie breng meeste tijd door met het kind -- indicated both parents"
+"KULeuven_mn043","KULeuven","mn043","Belgium","NL","Albanees",3,4.759,4.75,0.00900000000000034,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn044","KULeuven","mn044","Belgium","NL","Nederlands",3,3.759,3.75,0.0089999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn045","KULeuven","mn045","Belgium","NL","Nederlands",2,3.66,3.583,0.077,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn046","KULeuven","mn046","Belgium","NL","Nederlands",3,3.556,3.5,0.056,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn047","KULeuven","mn047","Belgium","NL","Nederlands",3,3.616,3.583,0.0329999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn048","KULeuven","mn048","Belgium","NL","Nederlands",3,4.518,4.5,0.0179999999999998,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn049","KULeuven","mn049","Belgium","NL","Nederlands",3,4.126,4.083,0.0430000000000001,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn050","KULeuven","mn050","Belgium","NL","Nederlands",2,3.751,3.75,0.00099999999999989,0,0,"agegroup2","agegroup2","1","0","1","1","48","1",NA
+"KULeuven_mn051","KULeuven","mn051","Belgium","NL","Nederlands",3,4.274,4.25,0.024,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn052","KULeuven","mn052","Belgium","NL","Nederlands",3,5.307,5.25,0.0570000000000004,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn053","KULeuven","mn053","Belgium","NL","Nederlands",3,3.611,3.583,0.028,0,0,"agegroup2","agegroup2","1","1","1","1","48",NA,NA
+"KULeuven_mn054","KULeuven","mn054","Belgium","NL","Nederlands",2,5.055,NA,NA,NA,NA,"agegroup2",NA,"1","1","1","1",NA,NA,NA
+"KULeuven_mn055","KULeuven","mn055","Belgium","NL","Roemeens",2,5.205,NA,NA,NA,NA,"agegroup2",NA,"1","1","1","1",NA,NA,NA
+"KULeuven_mn056","KULeuven","mn056","Belgium","NL","Koerdisch",3,4.701,4.667,0.0339999999999998,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn057","KULeuven","mn057","Belgium","NL","Nederlands",3,3.967,3.917,0.0500000000000003,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn058","KULeuven","mn058","Belgium","NL","Nederlands",0,2.751,NA,NA,NA,NA,"agegroup1",NA,"1","0","0",NA,NA,NA,"The child was very shy. During the give-n task, there were many interruptions and help/assistance from the childcare worker."
+"KULeuven_mn059","KULeuven","mn059","Belgium","NL","Nederlands",3,2.74,2.667,0.0730000000000004,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn060","KULeuven","mn060","Belgium","NL","Nederlands",3,2.923,2.917,0.00600000000000023,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn062","KULeuven","mn062","Belgium","NL","Nederlands",1,2.688,2.667,0.0210000000000004,0,0,"agegroup1","agegroup1","1","0","0","1","48","1",NA
+"KULeuven_mn063","KULeuven","mn063","Belgium","NL","Nederlands",3,2.542,2.5,0.0419999999999998,0,0,"agegroup1","agegroup1","1","1","1","1","48","0","reduced attention towards end of the visual memory task (so not fully completed)"
+"KULeuven_mn065","KULeuven","mn065","Belgium","NL","Frans",2,3.784,3.75,0.0339999999999998,0,0,"agegroup2","agegroup2","1","0","1","1","48","1","In the demographics form, they indicated both parents to the question who spends the most time with the child."
+"KULeuven_mn067","KULeuven","mn067","Belgium","NL","Frans",3,3.285,3.25,0.0350000000000001,0,0,"agegroup1","agegroup1","1","1","1","1","48","1","Both parents indicated to the question who spends the most time with the child."
+"KULeuven_mn070","KULeuven","mn070","Belgium","NL","Nederlands",3,3.307,3.25,0.0569999999999999,0,0,"agegroup1","agegroup1","1","1","1","1","48","0",NA
+"KULeuven_mn071","KULeuven","mn071","Belgium","NL","Nederlands",2,3.449,3.417,0.032,0,0,"agegroup1","agegroup1","1","0","1","1","48","1",NA
+"KULeuven_mn072","KULeuven","mn072","Belgium","NL","Nederlands",3,3.293,3.25,0.0430000000000001,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn073","KULeuven","mn073","Belgium","NL","Nederlands",3,3.299,3.25,0.0489999999999999,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn074","KULeuven","mn074","Belgium","NL","Frans",3,3.208,3.167,0.0410000000000004,0,0,"agegroup1","agegroup1","1","1","1","1","48","1",NA
+"KULeuven_mn075","KULeuven","mn075","Belgium","NL","Nederlands",3,3.803,3.75,0.0529999999999999,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
+"KULeuven_mn076","KULeuven","mn076","Belgium","NL","Frans",0,3.529,NA,NA,NA,NA,"agegroup2",NA,"1","0","0","1",NA,NA,"It was not clear whether the child was very shy or that het Dutch was not good enough to understand the tasks. I think for the Give-N and Highest count, she understood, but the Dot Comparison was difficult and she was very sad doing it, so I stopped it early and also did not start the Visual Memory."
+"KULeuven_mn077","KULeuven","mn077","Belgium","NL","Frans",3,3.855,3.833,0.0219999999999998,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",NA
